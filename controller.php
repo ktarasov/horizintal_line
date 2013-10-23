@@ -3,7 +3,7 @@
 class HorizintalLineBlockController extends BlockController {
 
 	protected $btName = 'Разделитель';
-	protected $btDescription = 'Модуль содержит нет HR и используется для разделения блоков на странице';
+	protected $btDescription = 'Модуль содержит тег HR и используется для разделения блоков на странице';
 
 	protected $btInterfaceWidth = "700";
 	protected $btInterfaceHeight = "150";
